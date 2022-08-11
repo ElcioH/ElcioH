@@ -1,10 +1,11 @@
-- 👋 Olá, meu noome é @ElcioH
-- :white_haired_man:	meu email de contato é elcio.rocha@escola.pr.gov.br
+# descrevendo Elcio Rodrigues
+- 👋 Olá, meu nome é Elcio Henrique
+- :white_haired_man:	meu email de contato é elcio.rocha@escola.pr.gov.br :crocodile:
+:earth_africa::barber:
 - 👀 Eu estou interessado em aprender a programar novas linguagens
-- :space_invader:	 Eu estou aprendendo a programar recentemente em JavaScript e Scratch
-- 💞️		
-:crocodile:	:earth_africa:	:barber:	
+- :space_invader:	 Eu estou aprendendo a programar recentemente no JavaScript e no Scratch
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 <!---
-ElcioH/ElcioH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Elcião/Elcio é um estudante de informática do primeiro ano do ensimo médio do colégio marechal rondon
