@@ -14,11 +14,13 @@
 ![mcdonalds](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 ![ifood](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
 ![ois](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-&lt;a href=&quot;https://instagram.com/elcio_henrique1&quot; target=&quot;_blank&quot;&gt;&lt;img
-src=&quot;https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
-badge&amp;logo=instagram&amp;logoColor=white&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+
+<a href = "mailto:elcio.rocha@escola.pr.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/elcio_henrique1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
+
+
 <!---
-Elcião/Elcio é um estudante de informática do primeiro ano do ensimo médio do colégio marechal rondon
-&lt;a href=&quot;https://instagram.com/elcio_henrique1&quot; target=&quot;_blank&quot;&gt;&lt;img
-src=&quot;https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
-badge&amp;logo=instagram&amp;logoColor=white&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+
